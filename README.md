@@ -17,4 +17,4 @@ CSS3
 JavaScript 
 Image hosting via post images
 Author:
-your name
+Maradana Suryanarayana Murthy 
